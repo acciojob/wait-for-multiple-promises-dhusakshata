@@ -31,6 +31,7 @@ function populateTable(data) {
   });
 }
 
+
 // By default, add a row that spans 2 columns with the exact text Loading...
 const loadingRow = document.createElement("tr");
 const loadingCell = document.createElement("td");
